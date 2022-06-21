@@ -16,3 +16,22 @@ int a=5;
 ```
 
 ![image](https://user-images.githubusercontent.com/77873383/174835889-527c06b3-0ab2-4e00-ab4b-9246e1c3c310.png)
+
+
+---
+<br>
+
+# Comments in C
+- // single line command
+```c
+// Single Line Comment
+
+#include<stdio.h>
+```
+- /* */ Multiple line command
+```c
+/*Multiple line
+command*/
+#include<stdio.h>
+
+```
