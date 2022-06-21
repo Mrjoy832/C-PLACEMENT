@@ -50,3 +50,5 @@ Example: Microsoft uses C to make Windows(hardware -OS) also used to make Softwa
 - **Executable Code**-> converted code with Added Linker
 
 
+![image](https://user-images.githubusercontent.com/77873383/174833766-3730e24b-59fc-4153-aa55-700e60e7235c.png)
+
