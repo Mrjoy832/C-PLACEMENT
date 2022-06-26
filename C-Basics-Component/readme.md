@@ -35,3 +35,20 @@ command*/
 #include<stdio.h>
 
 ```
+
+# MACROS:
+> it's basically a single line/simple-instruction/file by which large part of code can be implemented. 
+
+```c
+#include<stdio.h>
+#define pi 3.14
+#define AREA(r) (pi*r*r)
+int main(){
+    printf()
+    area=AREA(5)
+}
+how we know "How printf()" works..that is known by stdio.h 
+
+```
+
+- **Preprocessors*->any thing above main except part related to main code.
